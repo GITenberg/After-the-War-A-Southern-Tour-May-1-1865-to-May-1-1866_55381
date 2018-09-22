@@ -1,5 +1,8 @@
 _repo: After-the-War-A-Southern-Tour-May-1-1865-to-May-1-1866_55381
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55381-h/images/cover.jpg
 creator:
   author:
     agent_name: Reid, Whitelaw
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '31773'
     url: http://www.gutenberg.org/2009/agents/31773
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55381#After-the-War-A-Southern-Tour-May-1-1865-to-May-1-1866
 gutenberg_issued: '2017-08-18'
 gutenberg_type: Text
 identifiers:
